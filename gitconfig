@@ -47,5 +47,10 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = liz.rizudesu@gmail.com
-	name = Rizu Desu
+	email = 53382300+kawanotori@users.noreply.github.com
+	name = Kawanotori
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/local/bin/gh auth git-credential
+[init]
+	defaultBranch = main
